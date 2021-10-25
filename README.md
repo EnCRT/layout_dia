@@ -1,5 +1,5 @@
 
-# Project - Dia landing page #
+## Project - Dia landing page ##
 
 ### Used tecnologies:  ###
 
