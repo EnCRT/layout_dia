@@ -1,7 +1,7 @@
 
 # Project - Dia landing page #
 
-### Used tecnologies:###
+### Used tecnologies:  ###
 
   * HTML, SCSS, BEM
   * JS
